@@ -1,4 +1,8 @@
 .minecraft
+!build/libs
+profiles.json
+vlauncher.json
+
 .gradle
 build/
 !gradle/wrapper/gradle-wrapper.jar
