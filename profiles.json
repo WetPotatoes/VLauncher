@@ -1,0 +1,11 @@
+{
+  "profiles": [
+    {
+      "name": "edfsd",
+      "version": "1.21.4",
+      "minecraftPath": "D:\\Java\\VLauncher\\.minecraft",
+      "java": "D:\\Java\\VLauncher\\bundled",
+      "userJvmArgs": []
+    }
+  ]
+}
